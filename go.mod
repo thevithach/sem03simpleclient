@@ -1,4 +1,4 @@
-module github.com/thevithach/sem03simpleserver
+module github.com/thevithach/sem03simpleclient
 
 go 1.18
 
